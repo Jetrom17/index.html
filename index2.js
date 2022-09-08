@@ -1,10 +1,14 @@
-{
-  "Visibility": "VISIBLE",
-  "Title": "Atualização",
-  "Description": "Atualize para versão mais recente",
-  "MainTextButton": "Update",
-  "Cancelable": "true",
-  "CancelButtonText": "Cancel",
-  "DownloadLink": "https://www.mediafire.com/file/ucuqk7nq4ckvqcj/Marvel_Flix_3.0.apk/file",
-  "Version": "1.3"
-}
+[
+  {
+    "image": "true",
+    "imageURL": "https://logos-marques.com/wp-content/uploads/2021/03/Marvel-Logo-2048x1158.png",
+    "Title": "Seu app de séries",
+    "Message": "https://streamtape.com/e/VObyeg2dm2fKW9Q/"
+  },
+  {
+    "image": "false",
+    "imageURL": "",
+    "Title": "Assista agora",
+    "Message": "Episódio 4 - dublado"
+  }
+]
