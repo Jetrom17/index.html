@@ -4,8 +4,8 @@ Atualização do Marvel Flix
 
 # index2
 
-Notícia do Sandbox Enigma
+Notícia do Marvel Flix
 
 # index3
 
-Notícia do Marvel Flix
+Notícia do Sandbox Enigma
