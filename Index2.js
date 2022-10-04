@@ -16,5 +16,17 @@
     "imageURL": "",
     "Title": "Novidades da versão 1.4",
     "Message": "Possibilidade de assistir em tela cheia. Alteração dos botões - Alternativa -"
+  },
+  {
+    "image": "false",
+    "imageURL": "",
+    "Title": "Outras séries recentes",
+    "Message": "https://jetrom-e31b4.web.app/"
+  },
+  {
+    "image": "true",
+    "imageURL": "https://gratistudo.com/wp-content/uploads/2020/10/Quais-sao-os-melhores-bloqueadores-de-anuncios-para-PC.jpg",
+    "Title": "Use um bloqueador de anúncio!",
+    "Message": "https://nextdns.io/"
   }
 ]
