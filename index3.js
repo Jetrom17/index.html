@@ -1,8 +1,11 @@
-[
-  {
-    "image": "false",
-    "imageURL": "",
-    "Title": "Versão 1.12.",
-    "Message": "Primeiro registro da versão. Novidades sobre essa versão está indisponível. Confira versão posterior."
-  }
-]
+[{ 
+     "name": "tabnews", 
+     "short_name": "tabnews", 
+     "start_url": ".", 
+     "display": "standalone", 
+     "background_color": "#0175C2", 
+     "theme_color": "#0175C2", 
+     "description": "A new Flutter project.", 
+     "orientation": "portrait-primary", 
+     "prefer_related_applications": false
+}]
