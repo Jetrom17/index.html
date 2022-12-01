@@ -10,4 +10,5 @@
     "imageURL": "",
     "Title": "Info",
     "Message": "O aplicativo está em desenvolvimento. Volte mais tarde."
-  },
+  }
+]
