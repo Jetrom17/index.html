@@ -1,11 +1,13 @@
-[{ 
-     "name": "tabnews", 
-     "short_name": "tabnews", 
-     "start_url": ".", 
-     "display": "standalone", 
-     "background_color": "#0175C2", 
-     "theme_color": "#0175C2", 
-     "description": "A new Flutter project.", 
-     "orientation": "portrait-primary", 
-     "prefer_related_applications": false
-}]
+[
+  {
+    "image": "false",
+    "imageURL": "",
+    "Title": "JTK",
+    "Message": "https://jetronix.tk"
+  },
+  {
+    "image": "false",
+    "imageURL": "",
+    "Title": "Info",
+    "Message": "O aplicativo está em desenvolvimento. Volte mais tarde."
+  },
