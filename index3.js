@@ -2,14 +2,14 @@
   {
     "image": "false",
     "imageURL": "",
-    "Title": "JTK - Atualizações feita por aqui",
+    "Title": "Atualizações são feitas por aqui",
     "Message": "https://jetronix.tk"
   },
   {
-    "image": "false",
-    "imageURL": "",
-    "Title": "Info",
-    "Message": "O aplicativo está em desenvolvimento. Volte mais tarde."
+    "image": "true",
+    "imageURL": "https://raw.githubusercontent.com/Jetrom17/index.html/main/20221201_213512_0000.png",
+    "Title": "JTK",
+    "Message": "O aplicativo está em desenvolvimento. Aplicativo é um gerenciador de download como Jetbrains. Focado em aplicativos mod!"
   },
 {
 "image": "false",
