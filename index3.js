@@ -16,5 +16,11 @@
 "imageURL": "",
 "Title": "IPTV Grátis",
 "Message": "https://www.mediafire.com/folder/7kushymehvhsm/Mod"
+},
+{
+"image": "false",
+"imageURL": "",
+"Title": "Lista de IPTV",
+"Message": "https://jetronix.tk/api/IPTV"
 }
 ]
